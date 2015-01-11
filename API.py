@@ -22,7 +22,7 @@ def fullContactCollect(email):
 		print item['url']
 
 
-fullContactCollect('ik9red@gmail.com')
+fullContactCollect('example@gmail.com')
 
 #urlData =  urllib2.urlopen(url)
 #loadedJson = json.load(urlData)
